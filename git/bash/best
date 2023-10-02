@@ -1,2 +1,2 @@
-#!/ash
+#!/bin/bash
 echo "Best"
